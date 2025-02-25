@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @henryuchendu
 - 👀 I’m interested in meeting new programmers and learn more
-- 🌱 I’m currently learning html/css
 - 💞️ I’m looking to collaborate on java script
 - 📫 How to reach me on whatsapp +2348143999228
 
